@@ -57,7 +57,7 @@ notification:
   webhooks:
     feishu_url: "" # 飞书机器人的 webhook URL
     dingtalk_url: "" # 钉钉机器人的 webhook URL
-    wework_url: "" # 企业微信机器人的 webhook URL
+    wework_url: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=cc359afb-f341-4ad9-b35a-0b16b1c39a39" # 企业微信机器人的 webhook URL
     telegram_bot_token: "" # Telegram Bot Token
     telegram_chat_id: "" # Telegram Chat ID
     email_from: "" # 发件人邮箱地址
